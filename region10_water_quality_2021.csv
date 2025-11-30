@@ -1,0 +1,9 @@
+Year,Region,Waterbody,pH,FecalColiform,Rating,Label
+2021,Region10,Bathing Beaches of Initao,,130,No Monitoring,0
+2021,Region10,Bathing Beaches of Jasaan Misamis Oriental,,180,No Monitoring,0
+2021,Region10,Beach of Iligan Bucana Beach,7.80,90,Passed,1
+2021,Region10,Beach of Lagonlong Del Carmen Beach Resort,7.85,200,Failed,0
+2021,Region10,Coastal Area at Opol Misamis Oriental,7.91,110,Passed,1
+2021,Region10,Macajalar Bay,7.97,95,Passed,1
+2021,Region10,Cagayan de Oro Bay,7.82,250,Failed,0
+2021,Region10,Panguil Bay,7.72,120,Passed,1
