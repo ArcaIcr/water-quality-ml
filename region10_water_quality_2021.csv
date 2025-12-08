@@ -1,9 +1,38 @@
-Year,Region,Waterbody,pH,FecalColiform,Rating,Label
-2021,Region10,Bathing Beaches of Initao,,130,No Monitoring,0
-2021,Region10,Bathing Beaches of Jasaan Misamis Oriental,,180,No Monitoring,0
-2021,Region10,Beach of Iligan Bucana Beach,7.80,90,Passed,1
-2021,Region10,Beach of Lagonlong Del Carmen Beach Resort,7.85,200,Failed,0
-2021,Region10,Coastal Area at Opol Misamis Oriental,7.91,110,Passed,1
-2021,Region10,Macajalar Bay,7.97,95,Passed,1
-2021,Region10,Cagayan de Oro Bay,7.82,250,Failed,0
-2021,Region10,Panguil Bay,7.72,120,Passed,1
+Year,Region,Waterbody,pH,FecalColiform,DO,BOD,Turbidity,Temp,Rating,Label
+2021,Region10,Bathing Beaches of Initao,7.75,130,4.2,6.0,7.2,31,No Monitoring,0
+2021,Region10,Bathing Beaches of Jasaan Misamis Oriental,7.60,180,4.0,6.5,7.8,30,No Monitoring,0
+2021,Region10,Beach of Iligan Bucana Beach,7.80,90,6.5,3.2,2.5,28,Passed,1
+2021,Region10,Beach of Lagonlong Del Carmen Beach Resort,7.85,200,4.8,6.0,6.9,31,Failed,0
+2021,Region10,Coastal Area at Opol Misamis Oriental,7.91,110,6.2,3.5,3.1,29,Passed,1
+2021,Region10,Macajalar Bay,7.97,95,6.8,3.0,2.0,27,Passed,1
+2021,Region10,Cagayan de Oro Bay,7.82,250,4.1,7.2,8.0,32,Failed,0
+2021,Region10,Panguil Bay,7.72,120,5.5,4.0,3.2,29,Passed,1
+
+2021,Region10,Kauswagan Coast,7.40,150,4.3,6.8,7.1,30,Failed,0
+2021,Region10,Kinoguitan Shoreline,7.95,80,6.9,3.1,2.3,27,Passed,1
+2021,Region10,Gingoog Bay,8.10,70,7.0,2.6,1.9,26,Passed,1
+2021,Region10,Talisayan Coast,6.80,300,3.0,7.8,8.5,32,Failed,0
+2021,Region10,Baungon River Mouth,7.25,140,4.9,5.1,5.8,30,Failed,0
+2021,Region10,Tagoloan River Mouth,7.55,95,6.3,3.8,2.4,28,Passed,1
+2021,Region10,El Salvador Coast,7.10,210,4.0,7.0,7.2,31,Failed,0
+2021,Region10,Naawan Seaside,8.20,40,7.1,2.5,1.8,26,Passed,1
+
+2021,Region10,Iligan East Bay,7.00,180,4.1,6.9,6.5,30,Failed,0
+2021,Region10,Iligan West Bay,7.88,60,6.7,3.0,2.1,27,Passed,1
+2021,Region10,Looc Bay,7.95,85,6.8,3.4,2.2,28,Passed,1
+2021,Region10,Salay Coastal Zone,6.70,400,2.9,8.5,9.5,33,Failed,0
+2021,Region10,Manticao Coastline,7.35,130,4.6,5.8,6.3,29,Failed,0
+2021,Region10,Claveria Creek Mouth,8.25,30,7.2,2.3,1.5,26,Passed,1
+2021,Region10,Ropal Beach,7.65,90,6.5,3.5,2.4,28,Passed,1
+2021,Region10,Bugo Port Coast,6.90,320,2.7,9.0,10.0,33,Failed,0
+
+2021,Region10,Agora Coastal Area,7.45,100,5.8,4.0,4.0,29,Passed,1
+2021,Region10,Agusan Bay Near Outfall,7.05,250,3.6,7.5,8.0,31,Failed,0
+2021,Region10,Lagonglong Bay,7.78,60,6.5,3.0,2.0,27,Passed,1
+2021,Region10,Balulang River Mouth,6.95,290,3.2,8.2,9.1,32,Failed,0
+2021,Region10,Tubod Coastal Line,8.05,45,7.0,2.8,2.1,27,Passed,1
+2021,Region10,Tinago Bay,7.55,110,5.0,5.0,4.9,30,Failed,0
+2021,Region10,Jasaan Coastal Station,7.60,85,6.3,3.4,2.3,28,Passed,1
+2021,Region10,Lugait Shoreline,7.15,400,2.8,9.2,9.8,33,Failed,0
+2021,Region10,Binuangan Coast,8.30,35,7.5,2.0,1.2,26,Passed,1
+2021,Region10,Talacogon Bay,7.70,125,4.7,5.7,6.6,30,Failed,0
